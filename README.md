@@ -1,6 +1,8 @@
 # RomanRus Tools
-Теперь на GitHub есть модуль для чтения WebP без зависимостей.  
-INFDT.RU  
+Теперь на GitHub есть модуль для чтения WebP без зависимостей. 
+
+Начало развития экосистемы
+[INFDT.RU](https://infdt.ru)
 Soon or...
 
 ---
